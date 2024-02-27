@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Example</title>
+    <script>
+    function fetchData() {
+        fetch('https://api.example.com/data') // replace with your API endpoint
+            .then(response => response.json())
+            .then(data => {
+                // Do something with the data
+                console.log(data);
+            })
+            .catch(error => console.error('Error:', error));
+    }
+    </script>
+</head>
+<body onload="fetchData()">
+    <h1>API Example</h1>
+    <p>This is a sample HTML file for an API.</p>
+    <!-- Your API code goes here -->
+</body>
+</html>

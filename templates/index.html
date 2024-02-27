@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+            <script src="main.js"></script>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+            <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+            <style>
+                body {
+                    font-family: "Raleway", "Amatic SC", sans-serif;
+                }
+                .navbar {
+                    margin-bottom: 0;
+                    border-radius: 0;
+                }
+                .row.content {height: 1500px}
+                .sidenav {
+                    padding-top: 20px;
+                    background-color: #f1f1f1;
+                    height: 100%;
+                }
+                footer {
+                    background-color: #555;
+                    color: white;
+                    padding: 15px;
+                }
+                @media screen and (max-width: 767px) {
+                    .sidenav {
+                        height: auto;
+                        padding: 15px;
+                    }
+                    .row.content {height: auto;}
+                }
+                td, th {
+                    text-align: center;
+                }
+                h1 {
+                    /* text-align: center; */
+                    text-align: left;
+                    padding-left: 10%;
+                }
+            </style>
+            <title>Stock Data</title>
+        </head>
+        <body>
+            {% include 'menu.html' %}
+            <h1 style="font-size: 16px;">Current Market Data: {{ symbol }}</h1>
+            <h1 style="font-size: 16px;">Last Updated: {{ last_updated }}</h1>
+            <table class="table table-striped" style="width:80%; margin: 0 auto;">
+                <thead>
+                    <tr>
+                        {% for column in df.columns %}
+                            <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for index, row in df.iterrows() %}
+                        <tr>
+                            {# 2 decimal places in value #}
+                            {% for value in row %}
+                                <td>{{ value | round(4) }}</td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </body>
+    </html>
