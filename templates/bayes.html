@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bayes Prediction</title>
+</head>
+<body>
+    {% include 'menu.html' %}
+    <h1>Bayes Prediction</h1>
+    {% if mse %}
+        <p>Mean Squared Error: {{ mse }}</p>
+    {% endif %}
+    {% if r2 %}
+        <p>Coefficient of Determination: {{ r2 }}</p>
+    {% endif %}
+    {% if accuracy %}
+        <p>Accuracy: {{ accuracy }}</p>
+    {% endif %}
+    {% if precision %}
+        <p>Precision: {{ precision }}</p>
+    {% endif %}
+    {% if recall %}
+        <p>Recall: {{ recall }}</p>
+    {% endif %}
+    {% if f1_score %}
+        <p>F1 Score: {{ f1_score }}</p>
+    {% endif %}
+    {% if confusion_matrix %}
+        <p>Confusion Matrix: {{ confusion_matrix }}</p>
+    {% endif %}
+    {% if classification_report %}
+        <p>Classification Report: {{ classification_report }}</p>
+    {% endif %}
+    {% if training_time %}
+        <p>Training Time: {{ training_time }}</p>
+    {% endif %}
+    {% if prediction_time %}
+        <p>Prediction Time: {{ prediction_time }}</p>
+    {% endif %}
+    {# two decimal places #}
+    <p>Predictions: {{ predictions }}</p>
+    {% include 'bayes_plot.html' %}
+    <p>Linear Regression Predictions: {{ lpredictions }}</p>
+    {% include 'linear_regression_plot.html' %}
+    {# If bayes.png exists in the static folder, display it. #}
+    {% if 'bayes.png' in files %}
+        <img src="{{ url_for('static', filename='images/bayes.png') }}" alt="Bayes" style="width: 100%; height: auto;">
+    {% endif %}
+</body>
+</html>

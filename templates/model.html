@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Model Summary</title>
+        </head>
+        <body>
+            {% include 'menu.html' %}
+            <h1>Model Summary</h1>
+            <script>
+                try {
+                    var model_summary = JSON.stringify(model_summary, null, 2);
+                } catch (e) {
+                    var model_summary = "Model summary not available.";
+                }
+            </script>
+            {{ model_summary }}
+        </body>
+    </html>
