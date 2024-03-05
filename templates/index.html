@@ -1,18 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
 <!DOCTYPE html>
     <html>
         <head>
-            <meta charset="utf-8" />
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-            <script src="main.js"></script>
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-            <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+          <script>
+            function myFunction() {
+              var x = document.getElementById("myTopnav");
+              if (x.className === "topnav") {
+                x.className += " responsive";
+              } else {
+                x.className = "topnav";
+              }
+            }
+          </script>
+          <script>
+            alert("Window width: " + window.innerWidth + ", height: " + window.innerHeight);
+            // Record window window width and height to sqlite3 database using AJAX
+            // Create the database and table if necessary.
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "/create_window_size_table", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.send();
+            // Record the window width and height.
+            xhr.open("POST", "/record_window_size", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.send(JSON.stringify({"width": window.innerWidth, "height": window.innerHeight}));
+          </script>
             <style>
                 body {
                     font-family: "Raleway", "Amatic SC", sans-serif;
@@ -75,3 +88,21 @@
             </table>
         </body>
     </html>
+{% endblock %}
+import requests
+from bs4 import BeautifulSoup
+
+# Fetch the webpage
+response = requests.get('https://finance.yahoo.com/quote/TSLA')
+
+# Parse the webpage with bs4
+soup = BeautifulSoup(response.text, 'html.parser')
+
+# Find the price on the page
+price_tag = soup.find('span', {'class': 'Trsdu(0.3s) Fw(b) Fz(36px) Mb(-4px) D(ib)'})
+
+# Print the price
+if price_tag is not None:
+    print(price_tag.text)
+else:
+    print("Could not find the price.")

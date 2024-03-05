@@ -38,12 +38,15 @@
     {% endif %}
     {# two decimal places #}
     <p>Predictions: {{ predictions }}</p>
+    {# If bayes.png exists in the static folder, display it. #}
+    {# if 'bayes.png' in files #}
+				<h2>Bayes</h2>
+        <img src="{{ url_for('static', filename='images/bayes_plot.png') }}" alt="Bayes" style="width: 80%; height: auto;">
+				<h2>Linear</h2>
+        <img src="{{ url_for('static', filename='images/linear_regression_plot.png') }}" alt="Linear" style="width: 80%; height: auto;">
+    {# endif #}
     {% include 'bayes_plot.html' %}
     <p>Linear Regression Predictions: {{ lpredictions }}</p>
     {% include 'linear_regression_plot.html' %}
-    {# If bayes.png exists in the static folder, display it. #}
-    {% if 'bayes.png' in files %}
-        <img src="{{ url_for('static', filename='images/bayes.png') }}" alt="Bayes" style="width: 100%; height: auto;">
-    {% endif %}
 </body>
 </html>

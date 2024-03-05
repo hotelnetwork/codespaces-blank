@@ -1,0 +1,1470 @@
+2024-02-28 20:54:42.065253: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 20:54:42.124580: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 20:54:42.124878: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 20:54:42.126809: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 20:54:42.134463: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 20:54:42.134810: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 20:54:43.146612: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 20, in <module>
+    from flask import Flask as F, render_template as T
+ModuleNotFoundError: No module named 'flask'
+2024-02-28 21:07:45.668449: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:07:45.702374: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:07:45.702511: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:07:45.703865: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:07:45.709945: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:07:45.710265: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:07:46.756383: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 21, in <module>
+    from flask_httpauth import HTTPBasicAuth
+ModuleNotFoundError: No module named 'flask_httpauth'
+2024-02-28 21:10:38.659512: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:10:38.693382: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:10:38.693672: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:10:38.695066: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:10:38.701067: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:10:38.701386: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:10:39.626376: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 21, in <module>
+    from flask_httpauth import HTTPBasicAuth
+ModuleNotFoundError: No module named 'flask_httpauth'
+2024-02-28 21:11:05.428846: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:11:05.461226: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:11:05.461427: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:11:05.462825: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:11:05.468989: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:11:05.469316: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:11:06.388102: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 21, in <module>
+    from flask_httpauth import HTTPBasicAuth
+ModuleNotFoundError: No module named 'flask_httpauth'
+2024-02-28 21:12:07.596127: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:12:07.638403: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:12:07.638511: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:12:07.639840: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:12:07.646113: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:12:07.646430: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:12:08.634570: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 21:12:24.611934: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:12:24.648333: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:12:24.648683: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:12:24.650267: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:12:24.658763: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:12:24.659241: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:12:25.882336: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+127.0.0.1 - - [28/Feb/2024 21:13:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:13:46] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:13:46] "GET /main.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:13:46] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:13:46] "GET /main.css HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:13:46] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:13:47] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:12] "GET /model HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /model HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:13] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:14:17] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:14:18] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:18] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:14:18] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /?vscodeBrowserReqId=1709183737735 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /main.css HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /main.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:15:38] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:17:52] "GET /model HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:17:53] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:17:53] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:17:53] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 21:18:40] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:18:40] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:18:40] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:18:40] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+Error: Model summary not found.
+Error: Model summary not found.
+Error: Model summary not found.
+ * Restarting with stat
+2024-02-28 21:27:12.709513: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:12.742863: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:27:12.743071: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:27:12.744349: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:27:12.750296: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:12.750664: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:27:13.798959: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+2024-02-28 21:27:45.588126: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:45.620032: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:27:45.620159: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:27:45.621359: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:27:45.627063: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:45.627398: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:27:46.903042: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2024-02-28 21:27:55.465264: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:55.498258: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:27:55.498446: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:27:55.499662: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:27:55.505532: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:27:55.505906: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:27:56.723638: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2024-02-28 21:28:05.184303: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:28:05.221830: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:28:05.221916: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:28:05.223416: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:28:05.231976: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:28:05.232247: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:28:06.670271: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 12, in <module>
+    import tensorflow as tf
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/tensorflow/__init__.py", line 485, in <module>
+    importlib.import_module("keras.src.optimizers")
+  File "/usr/local/python/3.10.13/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/__init__.py", line 3, in <module>
+    from keras import __internal__
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/__internal__/__init__.py", line 3, in <module>
+    from keras.__internal__ import backend
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/__internal__/backend/__init__.py", line 3, in <module>
+    from keras.src.backend import _initialize_variables as initialize_variables
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/__init__.py", line 21, in <module>
+    from keras.src import applications
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/applications/__init__.py", line 18, in <module>
+    from keras.src.applications.convnext import ConvNeXtBase
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/applications/convnext.py", line 28, in <module>
+    from keras.src import backend
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/backend.py", line 35, in <module>
+    from keras.src.engine import keras_tensor
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/engine/keras_tensor.py", line 19, in <module>
+    from keras.src.utils import object_identity
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/utils/__init__.py", line 53, in <module>
+    from keras.src.utils.feature_space import FeatureSpace
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/utils/feature_space.py", line 20, in <module>
+    from keras.src.engine import base_layer
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/engine/base_layer.py", line 39, in <module>
+    from keras.src.engine import node as node_module
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/keras/src/engine/node.py", line 28, in <module>
+    from keras.src.saving.legacy.saved_model import json_utils
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 975, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_data
+KeyboardInterrupt
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:28:48] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:28:49] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:28:49] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:28:49] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 21:30:31.578253: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:30:31.671355: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:30:31.671861: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:30:31.673672: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:30:31.684396: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:30:31.684963: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:30:33.187803: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 21:30:39] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:30:40] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:30:40] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:40] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:40] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:43] "GET /model HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:30:43] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:43] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:43] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 21:30:46] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:30:46] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:46] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:30:46] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+Error: Model summary not found.
+ * Restarting with stat
+2024-02-28 21:32:01.598416: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:32:01.674982: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:32:01.675339: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:32:01.677005: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:32:01.685417: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:32:01.685939: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:32:03.238901: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /?vscodeBrowserReqId=1709184734648 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /main.css HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:15] "GET /main.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:32:49] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:32:49] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:49] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:32:49] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 21:33:25.243319: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:33:25.305249: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:33:25.305677: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:33:25.308044: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:33:25.316373: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:33:25.316888: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:33:26.828934: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:33:33] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:33:33] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:33:33] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:33:33] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 21:33:48] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:33:49] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:33:49] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:33:49] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 21:35:30.664219: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:35:30.718016: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:35:30.718417: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:35:30.719982: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:35:30.727854: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:35:30.728360: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:35:32.263879: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:35:42] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:35:42] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:35:42] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:35:42] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 21:36:09.204876: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:36:09.260632: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:36:09.261228: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:36:09.263181: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:36:09.272135: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:36:09.272731: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:36:10.825820: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 21:36:54.069658: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:36:54.136859: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:36:54.137327: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:36:54.139054: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:36:54.148423: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:36:54.149009: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:36:55.706080: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 21:37:02] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 21:37:02] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:37:02] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 21:37:02] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+  File "/workspaces/codespaces-blank/index.py", line 334
+    go.Line(x=, y=predictions, mode='lines', name='Predictions'),
+              ^
+SyntaxError: invalid syntax
+2024-02-28 21:40:26.867448: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:40:26.901700: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:40:26.901970: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:40:26.903382: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:40:26.909603: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:40:26.910001: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:40:27.867382: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 21:40:33.574008: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:40:33.607562: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 21:40:33.607731: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 21:40:33.608982: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 21:40:33.614755: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 21:40:33.615035: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 21:40:34.696881: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:01:39] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:01:40] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:01:40] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:01:40] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 22:08:58] "GET /matplotlib HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/workspaces/codespaces-blank/index.py", line 249, in matplotlib
+    return T('matplotlib.html', fig=fig, jinx=jinx)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/home/codespace/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/codespace/.local/lib/python3.10/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/workspaces/codespaces-blank/templates/matplotlib.html", line 39, in top-level template code
+    {% include 'templates/bayes_plot.html' %}
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: templates/bayes_plot.html
+127.0.0.1 - - [28/Feb/2024 22:08:59] "GET /matplotlib?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:08:59] "GET /matplotlib?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:08:59] "GET /matplotlib?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /?vscodeBrowserReqId=1709186981073 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /main.css HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:09:41] "GET /main.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 22:09:44] "GET /matplotlib HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/workspaces/codespaces-blank/index.py", line 249, in matplotlib
+    return T('matplotlib.html', fig=fig, jinx=jinx)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/home/codespace/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/codespace/.local/lib/python3.10/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/workspaces/codespaces-blank/templates/matplotlib.html", line 41, in top-level template code
+    {% include 'templates/linear_regression_plot.html' %}
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: templates/linear_regression_plot.html
+127.0.0.1 - - [28/Feb/2024 22:09:44] "GET /matplotlib?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:09:44] "GET /matplotlib?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:09:44] "GET /matplotlib?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /?vscodeBrowserReqId=1709187009489 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /main.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /main.css HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:09] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 22:10:12] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:10:12] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:12] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:12] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning:
+
+plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+
+127.0.0.1 - - [28/Feb/2024 22:10:24] "GET /matplotlib HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:10:24] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:24] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:10:24] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 22:10:43.713878: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:10:43.783842: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:10:43.784387: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:10:43.786068: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:10:43.797390: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:10:43.808285: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:10:45.352405: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:12:45] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:12:45] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:12:45] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:12:45] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:14:00] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:14:00] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:14:00] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:14:00] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:14:01] "GET /static/images/bayes.png HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+ * Restarting with stat
+2024-02-28 22:15:24.963106: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:15:25.079552: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:15:25.080080: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:15:25.081998: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:15:25.091883: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:15:25.092431: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:15:26.663725: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:15:32] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:15:32] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:15:32] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:15:32] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:16:02] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:16:02] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:16:02] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:16:02] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:16:39] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:16:39] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:16:39] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:16:39] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:17:25] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:17:25] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:17:25] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:17:25] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:17:25] "GET /static/images/bayes_plot.png HTTP/1.1" 200 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:18:45] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:18:45] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:18:45] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:18:45] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:18:45] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+ * Restarting with stat
+2024-02-28 22:19:58.348137: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:19:58.469929: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:19:58.470486: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:19:58.472402: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:19:58.482507: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:19:58.483099: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:20:00.003714: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 22:20:13.227380: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:20:13.286348: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:20:13.286740: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:20:13.289075: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:20:13.298809: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:20:13.299631: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:20:15.086386: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 22:20:33.450376: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:20:33.510818: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:20:33.511299: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:20:33.513158: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:20:33.522289: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:20:33.522857: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:20:35.035226: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:20:40] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:20:40] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:20:40] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:20:41] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:20:41] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+ * Restarting with stat
+2024-02-28 22:46:40.648473: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:46:40.706329: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:46:40.706893: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:46:40.708763: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:46:40.717258: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:46:40.717801: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:46:42.114171: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:47:05] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:47:05] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:47:05] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:47:05] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:47:05] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:50:24] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:50:24] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:50:24] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:50:24] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:50:25] "GET /static/images/linear_regression_plot.png HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:50:25] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+2024-02-28 22:51:06.849370: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:06.883322: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:51:06.883523: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:51:06.884942: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:51:06.891447: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:06.891840: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:51:07.887180: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 22:51:13.577944: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:13.610364: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:51:13.610542: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:51:13.611776: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:51:13.617513: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:13.617877: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:51:14.623082: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+2024-02-28 22:51:34.965839: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:34.999657: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:51:34.999907: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:51:35.001351: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:51:35.007641: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:35.007988: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:51:36.050784: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 22:51:41.546370: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:41.578511: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:51:41.578657: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:51:41.580164: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:51:41.585835: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:51:41.586184: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:51:42.548049: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:51:47] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:51:47] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:51:47] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:51:47] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:51:48] "GET /static/images/linear_regression_plot.png HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:51:48] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+ * Restarting with stat
+2024-02-28 22:53:23.222212: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:53:23.276179: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:53:23.276714: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:53:23.278534: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:53:23.287390: I external/local_tsl/tsl/cuda/cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+2024-02-28 22:53:23.287941: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:53:24.754749: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+/home/codespace/.local/lib/python3.10/site-packages/plotly/graph_objs/_deprecations.py:378: DeprecationWarning: plotly.graph_objs.Line is deprecated.
+Please replace it with one of the following more specific types
+  - plotly.graph_objs.scatter.Line
+  - plotly.graph_objs.layout.shape.Line
+  - etc.
+
+  warnings.warn(
+127.0.0.1 - - [28/Feb/2024 22:53:30] "GET /bayes HTTP/1.1" 200 -
+127.0.0.1 - - [28/Feb/2024 22:53:31] "GET /scripts/extras.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:53:31] "GET /scripts/shards-dashboards.1.1.0.min.js HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:53:31] "GET /static/images/bayes_plot.png HTTP/1.1" 304 -
+127.0.0.1 - - [28/Feb/2024 22:53:31] "GET /static/images/linear_regression_plot.png HTTP/1.1" 404 -
+127.0.0.1 - - [28/Feb/2024 22:53:31] "GET /scripts/app/app-blog-overview.1.1.0.js HTTP/1.1" 404 -
+ * Detected change in '/workspaces/codespaces-blank/jinx.py', reloading
+(3744, 1, 1) (936, 1, 1) (3744,) (936,)
+Mean squared error: 3.2311742677852645e-28
+Coefficient of determination: 1.0
+Data:                                  Open  ...                      date
+Datetime                               ...                          
+2024-02-28 15:10:00-05:00  201.682007  ... 2024-02-28 15:10:00-05:00
+2024-02-28 15:15:00-05:00  201.519897  ... 2024-02-28 15:15:00-05:00
+2024-02-28 15:20:00-05:00  201.720001  ... 2024-02-28 15:20:00-05:00
+2024-02-28 15:25:00-05:00  202.028000  ... 2024-02-28 15:25:00-05:00
+2024-02-28 15:30:00-05:00  202.061401  ... 2024-02-28 15:30:00-05:00
+2024-02-28 15:35:00-05:00  202.210007  ... 2024-02-28 15:35:00-05:00
+2024-02-28 15:40:00-05:00  202.115005  ... 2024-02-28 15:40:00-05:00
+2024-02-28 15:45:00-05:00  202.119995  ... 2024-02-28 15:45:00-05:00
+2024-02-28 15:50:00-05:00  202.149994  ... 2024-02-28 15:50:00-05:00
+2024-02-28 15:55:00-05:00  201.759995  ... 2024-02-28 15:55:00-05:00
+
+[10 rows x 7 columns]
+Predictions: [200.60989379882812, 200.13000488281247, 200.4649963378906, 200.90350341796872, 200.49000549316403, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859372, 200.38850402832028]
+Linear Predictions: [200.60989379882815, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.66499328613284, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+True labels: [200.60989379882812, 200.1300048828125, 200.46499633789062, 200.90350341796875, 200.49000549316406, 200.4499969482422, 200.6649932861328, 200.5500030517578, 200.30999755859375, 200.3885040283203]
+Error: Data not found.
+ * Restarting with stat
+2024-02-28 22:56:27.493806: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:27.494754: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:27.497002: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:27.513345: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:28.821605: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot4950.png'
+2024-02-28 22:56:34.918300: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:34.918424: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:34.920164: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:34.927015: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:35.901669: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot6642.png'
+2024-02-28 22:56:40.857996: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:40.858261: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:40.859759: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:40.866034: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:41.908537: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot577.png'
+2024-02-28 22:56:46.744091: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:46.744226: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:46.746166: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:46.754778: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:47.723203: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot70.png'
+2024-02-28 22:56:52.718688: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:52.718819: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:52.720289: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:52.726596: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:53.617985: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot7106.png'
+2024-02-28 22:56:58.572027: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:56:58.572286: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:56:58.573791: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:56:58.580921: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:56:59.561671: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/index.py", line 1, in <module>
+    from jinx import tkr, concurrent, os, keras, itl, data, math, pd, plt, np, tf, sns, datetime, y, w, F, T, HTTPBasicAuth, generate_password_hash, check_password_hash, linear_model, r2_score, mean_squared_error, px, go, request, redirect_stdout, io
+  File "/workspaces/codespaces-blank/jinx.py", line 91, in <module>
+    plt.savefig('static/images/jinx/plot' + str(np.random.randint(10000)) + '.png')
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/pyplot.py", line 1119, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 497, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/backends/backend_agg.py", line 446, in _print_pil
+    mpl.image.imsave(
+  File "/home/codespace/.local/lib/python3.10/site-packages/matplotlib/image.py", line 1656, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/codespace/.local/lib/python3.10/site-packages/PIL/Image.py", line 2436, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'static/images/jinx/plot327.png'
+2024-02-28 22:57:07.399112: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:57:07.400003: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:57:07.401986: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:57:07.410983: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:57:08.764477: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 22:57:14.402910: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 22:57:14.403108: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 22:57:14.404532: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 22:57:14.410461: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 22:57:15.465936: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+  File "/workspaces/codespaces-blank/index.py", line 275
+    print(train_data.shape, test_data.shape,
+IndentationError: unexpected indent
+2024-02-28 23:00:48.950744: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 23:00:48.951594: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 23:00:48.953644: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 23:00:48.963204: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 23:00:50.354797: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Serving Flask app 'index'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://localhost:5000
+Press CTRL+C to quit
+ * Restarting with stat
+2024-02-28 23:00:56.341608: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 23:00:56.342053: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 23:00:56.343431: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 23:00:56.349337: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 23:00:57.255734: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+ * Detected change in '/workspaces/codespaces-blank/index.py', reloading
+ * Restarting with stat
+2024-02-28 23:03:44.894377: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-02-28 23:03:44.895231: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-02-28 23:03:44.897133: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-02-28 23:03:44.906103: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-28 23:03:46.262255: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[*********************100%%**********************]  1 of 1 completed
+ * Debugger is active!
+ * Debugger PIN: 565-499-414
+Traceback (most recent call last):
+  File "/workspaces/codespaces-blank/jinx_ticker.py", line 28, in <module>
+    asyncio.run(asyncio.gather(*(process_ticker(tkr, itl, prd) for tkr in tickers for itl in intervals for prd in periods)))
+  File "/usr/local/python/3.10.13/lib/python3.10/asyncio/runners.py", line 37, in run
+    raise ValueError("a coroutine was expected, got {!r}".format(main))
+ValueError: a coroutine was expected, got <_GatheringFuture pending>

@@ -1,5 +1,52 @@
 <!-- Make horizontal with flex -->
 <style>
+        .menu {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            grid-gap: 1px;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            overflow-wrap: break-word;
+        }
+        .menu li a {
+            display: block;
+            padding: 2px;
+            background-color: #fff;
+            color: #00539B;
+            text-decoration: none;
+        }
+        .menu li a:hover {
+            background-color: #044781;
+            color: #fff;
+            border-color: #fff;
+        }
+        /* .menu li:nth-child(odd) a {
+            background-color: white;
+            color: #00539B;
+        }
+        .menu li:nth-child(even) a:hover {
+            background-color: #e9e6e6;
+            border-color: #00539B;
+            color: #00539B;
+        } */
+        /* Add mobile responsive menu and images */
+        /* Collapse the navbar to toggleable button when page is scrolled and make sticky */
+        @media (max-width: 768px) {
+            .menu {
+                font-size: .5em;
+            }
+            .navbar {
+                position: sticky;
+                top: 0;
+            }
+            .expand {
+                display: block;
+            }
+        }
+
+        /* Add the update button */
+        
     ul {
         display: flex;
         justify-content: space-evenly;
@@ -184,35 +231,6 @@
         });
     </script>
     <style>
-        .menu {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            grid-gap: 10px;
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        .menu li a {
-            display: block;
-            padding: 20px;
-            background-color: #333;
-            color: #fff;
-            text-decoration: none;
-        }
-        .menu li a:hover {
-            background-color: #444;
-            font-family: "Amatic SC", sans-serif;
-            font-size: 2em;
-        }
-        .menu li:nth-child(odd) a {
-            background-color: #666;
-        }
-        .menu li:nth-child(odd) a:hover {
-            background-color: #777;
-            font-family: "Amatic SC", sans-serif;
-            font-size: 1em;
-        }
-        
     </style>
     <script>
         function update() {
@@ -254,13 +272,17 @@
         });
     </script>
     <div class="container w3-container navbar">
-        <ul class="w3-navbar w3-large">
+        <!-- Mobile responsive menu-->
+        <ul class="w3-navbar w3-large menu">
             {% if true %}
                 <li><a href="{{ url_for('home') }}">Home</a></li>
                 <li><a href="{{ url_for('model') }}">Model</a></li>
                 <li><a href="{{ url_for('matplotlib') }}">Images</a></li>
                 <li><a href="{{ url_for('bayes') }}">Bayes</a></li>
-                {# If the currently rendered page is images add update button #}
+                <li><a href="{{ url_for('bayesian_ridge') }}">Bayesian Ridge</a></li>
+                <li><a href="{{ url_for('linear_regression') }}">Linear Regression</a></li>
+                <!-- Add Random Forest -->
+                <li><a href="{{ url_for('random_forest') }}">Random Forest</a></li>
                 {% if request.endpoint == 'matplotlib': %}
                     <!-- Button to update the interval -->
                     <button onclick="update()">Update</button>
@@ -270,6 +292,7 @@
                 <li><a href="{{ url_for('api/TSLA') }}">API</a></li>
                 <li><a href="{{ url_for('logout') }}">Logout</a></li>
             {% endif %}
+            {# Create routes for all the routes in templates #}
         </ul>
         {# If the currently rendered page is home add form #}
         {% if request.endpoint == 'model': %}
@@ -279,5 +302,6 @@
                 </div>
             </div>
         {% endif %}
+        {# include 'search.html' #}
     </div>
 </nav>

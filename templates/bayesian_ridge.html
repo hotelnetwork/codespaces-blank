@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bayesian Ridge</title>
+</head>
+<body>
+    {# Include Menu #}
+    {% include 'menu.html' %}
+    <h1>Bayesian Ridge</h1>
+    {# display r2_score, test_labels, predictions, and clf in a table #}
+    <table>
+        <tr>
+            <th>r2_score</th>
+            <th>test_labels</th>
+            <th>predictions</th>
+            <th>clf</th>
+        </tr>
+        <tr>
+            <td>{{ r2_score }}</td>
+            <td>{{ test_labels }}</td>
+            <td>{{ predictions }}</td>
+            <td>{{ clf }}</td>
+        </tr>
+    </table>
+    <h2>Bayesian Ridge Plot</h2>
+    <img src="/static/images/bayesian_ridge_plot.png" alt="Bayesian Ridge Plot">
+</body>
+</html>

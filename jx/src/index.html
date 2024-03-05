@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Menu</title>
+    </head>
+    <body>
+        <ul>
+            {% for file in html_files %}
+            <li><a href="{{ file }}">{{ file }}</a></li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

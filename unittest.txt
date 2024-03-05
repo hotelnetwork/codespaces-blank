@@ -1,0 +1,44 @@
+# import unittest
+# import jinx
+# import index
+#
+#
+# class TestJinx(unittest.TestCase):
+#     def test_tickers(self):
+#         self.assertIsInstance(jinx.tickers, list)
+#         self.assertTrue('TSLA' in jinx.tickers)
+#
+#     def test_get_price(self):
+#         price = jinx.get_price('TSLA')
+#         self.assertIsInstance(price, float)
+#
+#     def test_get_price_invalid(self):
+#         with self.assertRaises(Exception):
+#             jinx.get_price('INVALID')
+#
+#     def test_get_price_invalid_ticker(self):
+#         with self.assertRaises(Exception):
+#             jinx.get_price('')
+#
+#     def test_intervals(self):
+#         self.assertIsInstance(jinx.intervals, list)
+#         self.assertTrue('1m' in jinx.intervals)
+#
+#
+# class TestIndex(unittest.TestCase):
+#     # Assuming there's a function named `get_price` in index.py
+#     def test_get_price(self):
+#         price = index.get_price('TSLA')
+#         self.assertIsInstance(price, float)
+#
+#     def test_get_price_invalid(self):
+#         with self.assertRaises(Exception):
+#             index.get_price('INVALID')
+#
+#     def test_get_price_invalid_ticker(self):
+#         with self.assertRaises(Exception):
+#             index.get_price('')
+#
+#
+# if __name__ == '__main__':
+#     unittest.main()

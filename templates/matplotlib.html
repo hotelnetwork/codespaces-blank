@@ -9,7 +9,7 @@
         }
         h1 {
             text-align: center;
-        } 
+        }
         canvas {
             margin: 10px;
         }
@@ -37,5 +37,10 @@
     {% include 'candlestick.html' %}
 
     {% include 'bayes_plot.html' %}
+
+    {% include 'linear_regression_plot.html' %}
+
+    <h2>Std. Dev MA Slow {# Reverse Order #} {{ df['stdvmaslow'] }}</h2>
+
 </body>
 </html>

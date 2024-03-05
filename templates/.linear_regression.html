@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Linear Regression</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <script>
+      var fig = {{ fig | safe }};
+      var config = {{ config | safe }};
+      Plotly.newPlot('linear-regression-plot', fig.data, fig.layout, config);
+
+      // Add the Plotly.js library
+      var script = document.createElement('script');
+      script.src = 'https://cdn.plot.ly/plotly-latest.min.js';
+      script.async = false;
+      document.head.appendChild(script);
+
+    </script>
+</head>
+<body>
+    <!-- Include the navigation menu -->
+    {% include 'menu.html' %}
+
+    <div class="container">
+        <!-- Add the image -->
+        <img src="{{ url_for('static', filename='images/linear_regression_plot.png') }}" alt="Linear Regression Plot">
+        <!-- Add the templates/linear_regression_plot.html file --> <!-- If plot loads -->
+        <div id="linear-regression-plot"></div>
+        {# Use table to display the coefficients #}
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Coefficient</th>
+                    <th scope="col">Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Intercept</td>
+                    <td>{{ intercept }}</td>
+                </tr>
+                <tr>
+                    <td>Slope</td>
+                    <td>{{ slope }}</td>
+                </tr>
+            </tbody>
+        </table>
+        {% if 'linear_regression_plot.html' in _included_templates %}
+            {% include 'linear_regression_plot.html' %}
+        {% else %}
+            <p>Could not find the linear_regression_plot.html file</p>
+        {% endif %}
+    </div>
+
+    <!-- Bootstrap JS and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>

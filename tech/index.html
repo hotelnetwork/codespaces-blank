@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <title>Select Ticker</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Select Ticker</h1>
+    <form>
+      <div class="form-group">
+        <label for="tickerSelect">Choose a ticker:</label>
+        <select class="form-control" id="tickerSelect" onchange="location = this.value;">
+          <option value="^DJI.html">^DJI</option>
+          <option value="^IXIC.html">^IXIC</option>
+          <option value="TSLA.html">TSLA</option>
+          <option value="AAPL.html">AAPL</option>
+          <option value="AMZN.html">AMZN</option>
+          <option value="GOOGL.html">GOOGL</option>
+          <option value="GOOG.html">GOOG</option>
+        </select>
+      </div>
+    </form>
+  </div>
+</body>
+</html>

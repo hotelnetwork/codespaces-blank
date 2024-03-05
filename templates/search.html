@@ -2,9 +2,30 @@
 <html>
 <head>
     <title>Search</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        $("form").on("submit", function(event){
+            event.preventDefault();
+            $.ajax({
+                url: "{{ url_for('search') }}",
+                type: "POST",
+                data: $(this).serialize(),
+                success: function(response){
+                    console.log(response);
+                    
+                },
+                error: function(jqXHR, textStatus, errorThrown){
+                    console.log(textStatus, errorThrown);
+                }
+            });
+        });
+    });
+    </script>
     <script>
     $(function() {
         $("#search").autocomplete({
@@ -22,9 +43,42 @@
     });
     </script>
 </head>
-<body>
-    {% include 'menu.html' %}
-    <h1>Search</h1>
-    <input type="text" id="search" name="search">
+<body class="w3-container">
+    {# include 'menu.html' #}
+    <h1 class="w3-center">Search</h1>
+    {# Add an intermediary file below. #}
+    <form class="w3-container" action="/" method="post">
+        <div class="w3-row">
+            <div class="w3-col m3">
+                <label class="w3-text-blue" for="ticker">Ticker:</label><br>
+                <select class="w3-select w3-border" id="ticker" name="ticker">
+                    <option value="AAPL">AAPL</option>
+                    <option value="GOOGL">GOOGL</option>
+                    <option value="MSFT">MSFT</option>
+                    <!-- Add more options as needed -->
+                </select>
+            </div>
+            <div class="w3-col m3">
+                <label class="w3-text-blue" for="interval">Interval:</label><br>
+                <select class="w3-select w3-border" id="interval" name="interval">
+                    <option value="1min">1 minute</option>
+                    <option value="5min">5 minutes</option>
+                    <option value="15min">15 minutes</option>
+                    <!-- Add more options as needed -->
+                </select>
+            </div>
+            <div class="w3-col m3">
+                <label class="w3-text-blue" for="period">Period:</label><br>
+                <select class="w3-select w3-border" id="period" name="period">
+                    <option value="1day">1 day</option>
+                    <option value="1week">1 week</option>
+                    <!-- Add more options as needed -->
+                </select>
+            </div>
+            <div class="w3-col m3 w3-center" style="padding-top: 22px;">
+                <input class="w3-btn w3-blue w3-hover-light-blue" type="submit" value="Submit">
+            </div>
+        </div>
+    </form>
 </body>
 </html>

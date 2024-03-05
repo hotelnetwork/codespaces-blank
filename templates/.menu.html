@@ -1,0 +1,77 @@
+                {# If exists #}
+                {% if 'linear_regression_plot' in url_for('linear_regression_plot') %}
+                    <li><a href="{{ url_for('linear_regression_plot') }}">Linear Regression Plot</a></li>
+                {% endif %}
+                {% if 'logistic_regression' in url_for('logistic_regression') %}
+                    <li><a href="{{ url_for('logistic_regression') }}">Logistic Regression</a></li>
+                {% endif %}
+                {% if 'knn' in url_for('knn') %}
+                    <li><a href="{{ url_for('knn') }}">KNN</a></li>
+                {% endif %}
+                {% if 'svm' in url_for('svm') %}
+                    <li><a href="{{ url_for('svm') }}">SVM</a></li>
+                {% endif %}
+                {% if 'naive_bayes' in url_for('naive_bayes') %}
+                    <li><a href="{{ url_for('naive_bayes') }}">Naive Bayes</a></li>
+                {% endif %}
+                {% if 'decision_tree' in url_for('decision_tree') %}
+                    <li><a href="{{ url_for('decision_tree') }}">Decision Tree</a></li>
+                {% endif %}
+                {% if 'gradient_boosting' in url_for('gradient_boosting') %}
+                    <li><a href="{{ url_for('gradient_boosting') }}">Gradient Boosting</a></li>
+                {% endif %}
+                {% if 'xgboost' in url_for('xgboost') %}
+                    <li><a href="{{ url_for('xgboost') }}">XGBoost</a></li>
+                {% endif %}
+                {% if 'lightgbm' in url_for('lightgbm') %}
+                    <li><a href="{{ url_for('lightgbm') }}">LightGBM</a></li>
+                {% endif %}
+                {% if 'catboost' in url_for('catboost') %}
+                    <li><a href="{{ url_for('catboost') }}">CatBoost</a></li>
+                {% endif %}
+                {% if 'adaboost' in url_for('adaboost') %}
+                    <li><a href="{{ url_for('adaboost') }}">AdaBoost</a></li>
+                {% endif %}
+                {% if 'mlp' in url_for('mlp') %}
+                    <li><a href="{{ url_for('mlp') }}">MLP</a></li>
+                {% endif %}
+                {% if 'kmeans' in url_for('kmeans') %}
+                    <li><a href="{{ url_for('kmeans') }}">KMeans</a></li>
+                {% endif %}
+                {% if 'pca' in url_for('pca') %}
+                    <li><a href="{{ url_for('pca') }}">PCA</a></li>
+                {% endif %}
+                {% if 'ica' in url_for('ica') %}
+                    <li><a href="{{ url_for('ica') }}">ICA</a></li>
+                {% endif %}
+                {% if 'nmf' in url_for('nmf') %}
+                    <li><a href="{{ url_for('nmf') }}">NMF</a></li>
+                {% endif %}
+                {% if 'tsne' in url_for('tsne') %}
+                    <li><a href="{{ url_for('tsne') }}">t-SNE</a></li>
+                {% endif %}
+                {% if 'umap' in url_for('umap') %}
+                    <li><a href="{{ url_for('umap') }}">UMAP</a></li>
+                {% endif %}
+                {% if 'isomap' in url_for('isomap') %}
+                    <li><a href="{{ url_for('isomap') }}">Isomap</a></li>
+                {% endif %}
+                {% if 'lle' in url_for('lle') %}
+                    <li><a href="{{ url_for('lle') }}">LLE</a></li>
+                {% endif %}
+                {% if 'mds' in url_for('mds') %}
+                    <li><a href="{{ url_for('mds') }}">MDS</a></li>
+                {% endif %}
+                {% if 'tsla' in url_for('tsla') %}
+                    <li><a href="{{ url_for('tsla') }}">TSLA</a></li>
+                {% endif %}
+                {% if 'login' in url_for('login') %}
+                    <li><a href="{{ url_for('login') }}">Login</a></li>
+                {% endif %}
+                {% if 'api' in url_for('api') %}
+                    <li><a href="{{ url_for('api') }}">API</a></li>
+                {% endif %}
+                {% if 'logout' in url_for('logout') %}
+                    <li><a href="{{ url_for('logout') }}">Logout</a></li>
+                {% endif %}
+                {# If the currently rendered page is images add update button #}
